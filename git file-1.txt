@@ -1,0 +1,9 @@
+git init
+git status
+git config --global user.email ""
+git config --global user.username ""
+git commit -m ""
+git branch
+git revert
+git remote and origin repository
+git push -u origin master
